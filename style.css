@@ -1,3 +1,4 @@
+/* ____________nav-part  */
 .nav-title{
     font-family: 'Poppins', sans-serif;
     font-weight: 700;
@@ -12,7 +13,49 @@
     line-height: 24px;
     color: #3E3E3E;
 }
-.nav-button{
+.btn-button{
     background-color: rgb(255, 255, 255);
-    color: rgb(0, 0, 0);
+    color: #3F87F5;
+    border: none;
+    font-size: 16px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
 }
+/* nav-part______________  */
+
+/* ________main section________  */
+/* memorable moment  */
+.m-m{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.m-title{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    font-size: 38px;
+    color: #0A0826;
+}
+.m-button{
+    background-color: #3F87F5;
+    border: none;
+    color: white;
+    font-size: 16px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    margin-top: 20px;
+}
+.sign{
+    margin-left: 10px;
+}
+/* memorable moment  */
+
+/* packages  */
+.p-title{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 38px;
+    color: #0A0826;
+    margin-bottom: 100px;
+}
+/* packages  */
+/* ________main section________  */
