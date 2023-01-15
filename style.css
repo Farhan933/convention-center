@@ -57,5 +57,51 @@
     color: #0A0826;
     margin-bottom: 100px;
 }
+.p-pricing{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 36px;
+    color: #231D4F;
+    margin-bottom: 20px;
+}
+.p-title{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 28px;
+    color: #231D4F;
+    margin-bottom: 15px;
+}
+.p-info{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    color: #848199;
+    margin-bottom: 13px;
+}
+.p-offers{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    color: #848199;
+}
+.fa-check{
+    color: #848199;
+}
+.p-button{
+    background-color:#F496D1;
+    border-radius: 24px;
+    height: 45px;
+    width: 207px;
+    border: none;
+}
+.p-b-text{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    color: #3F87F5;
+}
+
 /* packages  */
 /* ________main section________  */
