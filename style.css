@@ -83,7 +83,7 @@
     margin-bottom: 10px;
 }
 .p-offers{
-    font-family: 'Poppins';
+    font-family: 'Poppins', sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 15px;
@@ -112,4 +112,41 @@
 }
 
 /* packages  */
+
+/* client-reviews  */
+.Client-feedback{
+    margin-bottom: 100px;
+}
+.hello-card{
+    border: none;
+}
+.R-details{
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    width: 253px;
+    height: 104px;
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+.c-n-title{
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 24px;
+    color: #0C1920;
+    margin-top: 15px;
+    }
+.c-n-profession{
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    color: #747474;
+    padding-bottom: 20px;
+    }
+/* client-reviews  */
 /* ________main section________  */
