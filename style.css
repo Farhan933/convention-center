@@ -114,6 +114,9 @@
 /* packages  */
 
 /* client-reviews  */
+.C-Reviews{
+    margin-bottom: 100px;
+}
 .Client-feedback{
     margin-bottom: 100px;
 }
